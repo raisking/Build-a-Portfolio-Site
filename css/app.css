@@ -25,12 +25,6 @@ a:hover {
     text-decoration: none;
     color: #003366;
 }
-.navbar-default .navbar-nav>li>a{
-  color: #fff;
-}
-.navbar-default .navbar-nav>li>a: hover{
-  color: red;
-}
 #head-div{
   background-color: #ccc;
   /*margin-top: 100px;*/
@@ -61,18 +55,11 @@ a:hover {
 
 }
 #footer-div{
-/*   background-image: url("../images/code1.jpg");
-    background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;*/
     background-color: #29333d;
     height: 150px;
     color: #fff;
     padding: 20px;
     font-size: 20px;
-
-
 }
 #profile-detail{
   margin-top: 100px;
@@ -100,7 +87,13 @@ a:hover {
 #info-section{
   margin-top: 30px;
 }
-  
+#myNavbar ul li a{
+  color: #a4a8ad;
+}
+#myNavbar ul li a:hover{
+  color: #fff;
+}
+
 .thumbnail{
   padding: 25px;
 
