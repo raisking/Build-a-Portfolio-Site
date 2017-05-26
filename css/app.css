@@ -1,19 +1,17 @@
 body {
-  font-family: 'Poppins', sans-serif;
-  font-family: 'Cabin', sans-serif;
-  font-family: 'Ubuntu', sans-serif;
-  background-image: url("../images/code1.jpg");
+  font-family: "Poppins", sans-serif;
+  font-family: "Cabin", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  background-image: url(../images/code1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-
-
 }
-h2,h3,h4{
+h2,h3,h4 {
   letter-spacing: 6px;
 }
-h1{
+h1 {
   letter-spacing: 12px;
 }
 
