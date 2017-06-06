@@ -1,6 +1,8 @@
 $('#mydetail').css('display','none').fadeIn(2000);	
 $('img').css('display','none').fadeIn(2000);	
 
+document.getElementById("datefield").innerHTML = new Date();
+
 // $('#project-image).on('click',function(){
 // 	$(this).toggleClass('selected');
 // });
