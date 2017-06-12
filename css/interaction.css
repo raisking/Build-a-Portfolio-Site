@@ -179,8 +179,9 @@ perspective: 700px;
 }
 
 #home-text {
+  font-family: 'Allura', cursive;
   padding-right: 20px;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: bold;
   color: #000;
   word-break: break-word;
